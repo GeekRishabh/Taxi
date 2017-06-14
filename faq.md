@@ -1,8 +1,8 @@
 # <center>FAQ's</center>
 
 #### What Prerequisite Knowledge do you need      to run this app ?
-#### How to devlop api-server ?
-#### How to devlop Admin Web Dashboard ?
+#### How to deploy api-server ?
+#### How to deploy Admin Web Dashboard ?
 #### How to run Android & IOS app ?
 #### What is the default login credential         for Admin dashboard ??
 #### What if I forget my password ?
