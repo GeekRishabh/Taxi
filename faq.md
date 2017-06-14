@@ -8,7 +8,7 @@
 #### What if I forget my password ?
 #### Is SMS/ MAIL integrated ?
 #### Does is include Payment Gateway ?
-#### What is I want to customize the App          Theme name etc ?
+#### What if I want to customize the App          Theme name etc ?
 #### How the App processes Card Payment ?
 #### What are infrastructure requirnment for      the product to run ?
 #### Does it have Real Time tracking ?
